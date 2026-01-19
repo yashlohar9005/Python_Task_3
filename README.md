@@ -1,6 +1,6 @@
 Grade Calculator (Python)
 
-Author:- Yash Sunil Lohar
+Author:- Yash Lohar
 
 A simple Python program to calculate student grades using conditional statements, logical operators, and nested decision logic.
 
